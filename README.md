@@ -6,7 +6,8 @@ This website is a heartfelt tribute dedicated to celebrating her special day—P
 Birthday Collage: A unique collection of collages showcasing moments that highlight her sweet side.
 Heartfelt Wishes: A space to express love and best wishes
 Interactive Experience: Enjoy dynamic visual effects as you scroll through the pages, powered by GSAP Scroll Trigger.
-Getting Started
+
+# Getting Started
 To join in the celebration, simply navigate through the site to explore the collages and birthday wishes.
 
 # Prerequisites
