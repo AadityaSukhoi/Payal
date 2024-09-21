@@ -1,6 +1,4 @@
-# Payal
-
-## Welcome to the fanmade website of Payal Gaming
+## Welcome to the FANMADE Website of PAYAL DHARE aka PAYAL GAMING
 # Overview
 This website is a heartfelt tribute dedicated to celebrating her special day—Payal's birthday! This website features a beautiful digital scrapbook filled with cherished memories, loving messages, and delightful images that capture the essence of joy and love.
 
